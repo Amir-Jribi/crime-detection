@@ -14,6 +14,14 @@ This web app predicts the likelihood of crimes in New York City using historical
 - **Interactive Map:** Allows users to input a location and assess its safety.  
 - **Detailed Results:** Highlights the crime category with the highest probability of occurrence.  
 - **Geolocation Services:** Provides insights based on the user's current location.  
+## ✨ Key Features
+
+| Feature                | Description |
+|------------------------|-------------|
+| 🗺️ **Interactive Map** | Visualize predicted crime likelihoods directly on an NYC map. |
+| 📍 **Smart Geolocation** | Automatically assesses your current location's safety. |
+| 🔍 **Detailed Insights** | Reveals the **most probable crime type** in your selected area. |
+| 📈 **Predictive Intelligence** | Uses trained ML models to generate risk probabilities. |
 
 ## 🛠️ Tech Stack
 
