@@ -4,12 +4,13 @@
 This web app predicts the likelihood of crimes in New York City using historical data, helping users identify safe places to visit.  
 
 ## 📊 Dataset  
-- **NYPD Complaint Data (2006–2021)**  
-- **6.9M records** with 35 attributes, including:  
-  - **Temporal:** Date, time  
-  - **Spatial:** Latitude, longitude  
-  - **Crime details:** Type, classification
-  - 
+- **Source:** [NYPD Complaint Data (2006–2021)](https://opendata.cityofnewyork.us/)
+- **Size:** 6.9 million+ records
+- **Features:**
+  - 🕒 **Temporal**: Date, time of incident  
+  - 📍 **Spatial**: Latitude, longitude, precincts  
+  - 🧾 **Crime Details**: Offense description, classification
+    
 ## ✨ Key Features
 
 | Feature                | Description |
