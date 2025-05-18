@@ -8,12 +8,8 @@ This web app predicts the likelihood of crimes in New York City using historical
 - **6.9M records** with 35 attributes, including:  
   - **Temporal:** Date, time  
   - **Spatial:** Latitude, longitude  
-  - **Crime details:** Type, classification  
-
-## 💻 Features  
-- **Interactive Map:** Allows users to input a location and assess its safety.  
-- **Detailed Results:** Highlights the crime category with the highest probability of occurrence.  
-- **Geolocation Services:** Provides insights based on the user's current location.  
+  - **Crime details:** Type, classification
+  - 
 ## ✨ Key Features
 
 | Feature                | Description |
