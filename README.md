@@ -4,7 +4,7 @@ An intelligent, map-based web application that leverages machine learning and ge
 ## 🌆 Overview
 Explore New York City with confidence.
 
-This web app analyzes historical crime data to predict the **likelihood of criminal activity** in any given area. Just enter a location — or use your real-time coordinates — and get instant insights into **crime categories** most likely to occur nearby.
+This web app analyzes historical crime data to predict the **likelihood of criminal activity** in any given area. Just enter a location  or use your real-time coordinates  and get instant insights into **crime categories** most likely to occur nearby.
 
 ## 📊 Dataset  
 - **Source:** [NYPD Complaint Data (2006–2021)](https://opendata.cityofnewyork.us/)
