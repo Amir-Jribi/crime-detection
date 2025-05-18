@@ -1,7 +1,10 @@
 # 🚨 New York City Crime Prediction Web Application 
+An intelligent, map-based web application that leverages machine learning and geospatial data to **predict crime probabilities** in NYC neighborhoods. Whether you're planning a visit or commuting, this tool helps you make **safer decisions, backed by data**.
 
-## 🌆 Overview  
-This web app predicts the likelihood of crimes in New York City using historical data, helping users identify safe places to visit.  
+## 🌆 Overview
+Explore New York City with confidence.
+
+This web app analyzes historical crime data to predict the **likelihood of criminal activity** in any given area. Just enter a location — or use your real-time coordinates — and get instant insights into **crime categories** most likely to occur nearby.
 
 ## 📊 Dataset  
 - **Source:** [NYPD Complaint Data (2006–2021)](https://opendata.cityofnewyork.us/)
