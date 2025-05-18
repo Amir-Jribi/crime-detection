@@ -1,6 +1,6 @@
-# New York City Crime Prediction Web Application 🚨
+# 🚨 New York City Crime Prediction Web Application 
 
-## Overview  
+## 🌆 Overview  
 This web app predicts the likelihood of crimes in New York City using historical data, helping users identify safe places to visit.  
 
 ## 📊 Dataset  
@@ -15,7 +15,17 @@ This web app predicts the likelihood of crimes in New York City using historical
 - **Detailed Results:** Highlights the crime category with the highest probability of occurrence.  
 - **Geolocation Services:** Provides insights based on the user's current location.  
 
-## 🛠️ Technologies  
-- **Backend:** Node.js for web server and APIs.  
-- **Frontend:** OpenStreetMap for map-based visualization.  
-- **Machine Learning:** Scikit-learn, LightGBM, XGBoost.  
+## 🛠️ Tech Stack
+
+**Frontend**  
+- 🗺️ [OpenStreetMap](https://www.openstreetmap.org/) – Live, interactive mapping  
+- 🧪 HTML, CSS, JS – Lightweight and responsive UI
+
+**Backend**  
+- ⚙️ **Node.js** – Fast and scalable server environment  
+- 🌐 **RESTful API** – For predictions and data retrieval
+
+**Machine Learning**  
+- 🧠 **Scikit-learn** – Baseline modeling  
+- 🌲 **LightGBM** – Fast and efficient gradient boosting  
+- 🔥 **XGBoost** – High-performance crime classification
